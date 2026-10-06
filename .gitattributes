@@ -1,0 +1,5 @@
+# Normaliza finais de linha no repositório
+* text=auto
+
+# Scripts do Windows PowerShell 5.1 precisam de CRLF
+*.ps1 text eol=crlf

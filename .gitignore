@@ -1,0 +1,13 @@
+# Sistema operacional e editores
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Configurações locais do Claude Code (pessoais, não versionar)
+.claude/settings.local.json
+
+# Arquivos temporários
+*.tmp
+*.log
